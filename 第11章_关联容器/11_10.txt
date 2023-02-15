@@ -1,0 +1,2 @@
+vector<int>::iterator可以,list<int>::iterator 不可以
+因为map的键必须实现 < 操作，list 的迭代器不支持比较运算。
