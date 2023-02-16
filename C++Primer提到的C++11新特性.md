@@ -63,3 +63,12 @@ C++11引入了三个新成员。emplace_front、emplace和emplace_back
 # 25、无序容器
 
 # 26、智能指针
+
+# 27、 = default
+
+# 28、 = delete
+
+# 29、 移动构造move
+
+# 30、 右值引用
+
